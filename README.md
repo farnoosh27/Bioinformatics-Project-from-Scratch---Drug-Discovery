@@ -1,7 +1,7 @@
 # Bioinformatics-Project-from-Scratch---Drug-Discovery
 Hello, in this project, I am working on following all the tutorials created by Data Professor, Chanin Natasenamat, who is both an Assistant Professor and a part-time YouTuber. I am modifying his notebooks, specifically updating some of the information that was from 2020 to make a new 2023 version.
 
-##background
+## background
 here is a some useful information that may be helpful throughout the project: 
 1) What is the definition of the bioactivity of a molecule? 
 The bioactivity of a molecule refers to its ability to interact with biological systems and produce a specific biological effect. This can include a wide range of effects, such as binding to a receptor, inhibiting or activating an enzyme, altering gene expression, or inducing cell death.
@@ -14,5 +14,5 @@ Inhibition of AChE can lead to the accumulation of the neurotransmitter acetylch
 
 On the other hand, inhibition of AChE can also cause overstimulation of the peripheral nervous system, leading to various symptoms such as muscle weakness, respiratory distress, and cardiovascular collapse. This can be caused by exposure to certain toxins, such as organophosphate and carbamate pesticides, and can also be a feature of certain medical conditions, such as myasthenia gravis.**
 
-##notebooks
+## notebooks
 1) downloading the coronavirus dataset from ChEMBL website. 2) performing exploratory data analysis.
