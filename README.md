@@ -16,8 +16,8 @@ On the other hand, inhibition of AChE can also cause overstimulation of the peri
 
 ## notebooks
 
-⌨ Part 1 - downloading the coronavirus dataset from ChEMBL website.
-⌨️ Part 2 - performing Exploratory Data Analysis
+* Part 1 - downloading the coronavirus dataset from ChEMBL website.
+Part 2 - performing Exploratory Data Analysis
 ⌨️ Part 2 - Descriptor calculation
 ⌨️ Part 4 - Model building using Regression Based Algorithm
 ⌨️ Part 5 - Model Comparison using Lazy Predict library
