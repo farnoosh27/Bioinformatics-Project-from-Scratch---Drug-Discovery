@@ -15,4 +15,10 @@ Inhibition of AChE can lead to the accumulation of the neurotransmitter acetylch
 On the other hand, inhibition of AChE can also cause overstimulation of the peripheral nervous system, leading to various symptoms such as muscle weakness, respiratory distress, and cardiovascular collapse. This can be caused by exposure to certain toxins, such as organophosphate and carbamate pesticides, and can also be a feature of certain medical conditions, such as myasthenia gravis.**
 
 ## notebooks
-1) downloading the coronavirus dataset from ChEMBL website. 2) performing exploratory data analysis.
+
+⌨ Part 1 - downloading the coronavirus dataset from ChEMBL website.
+⌨️ Part 2 - performing Exploratory Data Analysis
+⌨️ Part 2 - Descriptor calculation
+⌨️ Part 4 - Model building using Regression Based Algorithm
+⌨️ Part 5 - Model Comparison using Lazy Predict library
+
