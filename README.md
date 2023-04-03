@@ -1,6 +1,9 @@
 # Bioinformatics-Project-from-Scratch---Drug-Discovery
+Data Science has been playing a significant role in coming up with novel therapeutic agents in the modern world.
+In this repository, I will train several machine learning models to predict the bioactivity of the Acetylcholinesterase enzyme!
+
 ### Acetylcholinesterase (AChE) Bioactivity Predictor
-Hello, in this project, I am working on following all the tutorials created by Data Professor, Chanin Natasenamat, who is both an Assistant Professor and a part-time YouTuber. I am modifying his notebooks, specifically updating some of the information that was from 2020 to make a new 2023 version.
+In this project, I am working on following all the tutorials created by Data Professor, Chanin Natasenamat, who is both an Assistant Professor and a part-time YouTuber. I am modifying his notebooks, specifically updating some of the information that was from 2020 to make a new 2023 version.
 
 ## background
 here is a some useful information that may be helpful throughout the project: 
