@@ -17,6 +17,7 @@ Acetylcholinesterase (AChE) is an enzyme found in the nervous system that breaks
 
 3) what kind of pathologies are related to AChE?
 Inhibition of AChE can lead to the accumulation of the neurotransmitter acetylcholine (ACh), which can have various effects depending on the location and extent of inhibition. Inhibition of AChE in the central nervous system (CNS) can lead to increased cholinergic activity and improved cognitive function, and AChE inhibitors are used clinically to treat cognitive disorders such as Alzheimer's disease.
+4) What does the bioactivity of AChE determine? The bioactivity of acetylcholinesterase (AChE) determines its effectiveness in breaking down acetylcholine and regulating cholinergic signaling in the nervous system. The bioactivity of AChE can be evaluated in several ways to assess its function and potential implications. 
 
 On the other hand, inhibition of AChE can also cause overstimulation of the peripheral nervous system, leading to various symptoms such as muscle weakness, respiratory distress, and cardiovascular collapse. This can be caused by exposure to certain toxins, such as organophosphate and carbamate pesticides, and can also be a feature of certain medical conditions, such as myasthenia gravis.**
 
