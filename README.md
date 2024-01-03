@@ -8,7 +8,7 @@ bioactivity predictors are useful tools for identifying potentially active compo
 In this project, I am working on following all the tutorials created by Data Professor, Chanin Natasenamat, who is both an Assistant Professor and a part-time YouTuber. I am modifying his notebooks, specifically updating some of the information that was from 2020 to make a new 2023 version.
 
 ## background
-here is a some useful information that may be helpful throughout the project: 
+here is some useful information that may be helpful throughout the project: 
 1) What is the definition of the bioactivity of a molecule? 
 The bioactivity of a molecule refers to its ability to interact with biological systems and produce a specific biological effect. This can include a wide range of effects, such as binding to a receptor, inhibiting or activating an enzyme, altering gene expression, or inducing cell death.
 
@@ -23,8 +23,8 @@ On the other hand, inhibition of AChE can also cause overstimulation of the peri
 
 ## notebooks
 
-* Part 1 - downloading the coronavirus dataset from ChEMBL website.
-* Part 2 - performing Exploratory Data Analysis
+* Part 1 - Downloading the coronavirus dataset from ChEMBL website.
+* Part 2 - Performing Exploratory Data Analysis
 * Part 2 - Descriptor calculation
 * Part 4 - Model building using Regression Based Algorithm
 * Part 5 - Model Comparison using Lazy Predict library
